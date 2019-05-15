@@ -1,0 +1,3 @@
+# 忽略掉node_modules和package-lock.json文件因为比较大占空间
+node_modules
+package-lock.json
